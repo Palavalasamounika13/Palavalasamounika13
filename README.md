@@ -33,6 +33,14 @@ I'm a fresher looking to start my career in **Data Science / Machine Learning**.
 - ⚡ Fun fact: I love turning messy datasets into clear stories
 
 ---
+| Project | Problem and result | Tech |
+|---|---|---|
+| 🏦 [Banking Customer Account Prediction](https://github.com/Palavalasamounika13/banking_customer_account_prediction_) | Predicted [what: churn / account opening / transaction] using [rows] customer records. Best model: [model name] with **[xx]% accuracy / [xx] F1**. | Python, Scikit-learn |
+| 🎓 [Student Performance Prediction](https://github.com/Palavalasamounika13/student_perforamance_prediction) | Predicted student [grades / pass-fail] from [N] factors. Top driver: **[feature]**. Best model: [model], **[xx]%** accuracy. | Python, Pandas, ML |
+| 👶 [Child Mortality Prediction](https://github.com/Palavalasamounika13/child_mortality_prediction) | Analyzed [dataset/countries/years] to predict child mortality. Key finding: **[one insight]**. Model: [model], R² / accuracy **[xx]**. | Python, EDA, ML |
+| 🍽️ [Food Impact India](https://github.com/Palavalasamounika13/Food_Impact_India) | Analyzed [what data] across Indian states. Key insight: **[one finding, e.g., "X is highest in Y"]**. | Python, Seaborn |
+| 💼 [LinkedIn India Jobs Analysis](https://github.com/Palavalasamounika13/linkedin_india_jobs_analysis) | Analyzed [N] job postings. Found **[top skills / cities / roles in demand]**. | Python, EDA |
+| 📚 [Library Management (SQL)](https://github.com/Palavalasamounika13/Library_Management.SQL) | Designed a [N]-table database with [joins, subqueries, CTEs, etc.] to answer [N] business questions. | MySQL |
 
 ### 🛠️ Tech Stack & Skills
 
